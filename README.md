@@ -21,6 +21,15 @@ What it does:
 
 ---
 
+## 📈 Example Results
+
+- Responds to calls instantly (no missed calls)
+- Handles 100% of inbound inquiries automatically
+- Books appointments without human involvement
+- Reduces response time from hours → seconds
+
+---
+
 ## ⚙️ What This System Does
 
 - Handles inbound calls 24/7  
