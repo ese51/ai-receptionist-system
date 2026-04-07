@@ -63,6 +63,8 @@ No missed leads. No delays.
 
 ## 🔄 Example Flow
 
+![AI Receptionist Flow](assets/flow.png)
+
 1. Customer calls  
 2. System answers instantly  
 3. Customer explains what they need  
