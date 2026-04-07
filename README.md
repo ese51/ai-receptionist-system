@@ -23,10 +23,10 @@ What it does:
 
 ## 📈 Example Results
 
-- Responds to calls instantly (no missed calls)
-- Handles 100% of inbound inquiries automatically
-- Books appointments without human involvement
-- Reduces response time from hours → seconds
+- Responds to every call instantly (no missed opportunities)  
+- Handles inbound inquiries 24/7 without human involvement  
+- Books appointments automatically through live conversation  
+- Reduces response time from hours → seconds  
 
 ---
 
